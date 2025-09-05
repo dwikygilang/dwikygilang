@@ -27,6 +27,12 @@
   <img src="https://img.shields.io/badge/Code-Unity-black?logo=unity" />
   <img src="https://img.shields.io/badge/Code-Laravel-red?logo=laravel" />
   <img src="https://img.shields.io/badge/Code-OpenCV-green?logo=opencv" />
+  <img src="https://img.shields.io/badge/IoT-ESP32-orange?logo=espressif" />
+  <img src="https://img.shields.io/badge/Automation-n8n-pink?logo=n8n" />
+  <img src="https://img.shields.io/badge/Automation-DiscordBot-7289da?logo=discord" />
+  <img src="https://img.shields.io/badge/Render-OpenCue-00bcd4" />
+  <img src="https://img.shields.io/badge/Render-Kitsu-9c27b0" />
+  <img src="https://img.shields.io/badge/AI-PythonBrain-yellow?logo=tensorflow" />
   <img src="https://img.shields.io/badge/Design-Blender-orange?logo=blender" />
 </p>
 
