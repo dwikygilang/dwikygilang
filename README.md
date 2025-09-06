@@ -6,9 +6,9 @@
 
 
 ## 🌏 About Me  
-- 🎨 Creative Developer & Sleeper  
+- 🎨 Creative Sleeper  
 - 🎮 Game & Interactive Experience Enthusiast  
-- 🛠️ Focus on **Unity, Python, and Sleep**  
+- 🛠️ Focus on **Nothing, and Sleep**  
 - ✨ Lifelong learner, blending **tech + culture**  
 
 
@@ -47,10 +47,10 @@
 
 
 ## 🎶 Culture + Vibes  
-> *"Hidup boleh serius, tapi hidup harus tetap chill."* ✨  
-- ☕ Kopi + Koding = Perfect Combo  
+> *"when somebody tells you, thats not a question."* ✨  
+- ☕ Coffe + Sleep = Perfect Combo  
 - 🎧 Lo-fi & Indie vibes  
-- 🎬 Storytelling lewat Game & Mimpi  
+- 🎬 ? idk  
 
 
 
