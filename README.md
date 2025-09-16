@@ -3,15 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi%20👋%2C%20I'm%20Dwiky%20Gilang&fontSize=40&fontAlignY=35&animation=twinkling" />
 </p>
 
-
-
 ## 🌏 About Me  
 - 🎨 Creative Sleeper  
 - 🎮 Game & Interactive Experience Enthusiast  
-- 🛠️ Focus on **Nothing, and Sleep**  
-- ✨ Lifelong learner, blending **tech + culture**  
-
-
+- 🛠️ Focused on **Nothing, Just Sleep**  
+- ✨ Lifelong learner, blending **Tech + Culture**  
 
 ## 📬 Get in Touch  
 - 📧 **Email**: [dwiky@dream-grid.com](mailto:dwiky@dream-grid.com)  
@@ -19,43 +15,34 @@
 - 📷 **Instagram**: [@dwikygilangi](https://instagram.com/dwikygilangi)  
 - 💼 **LinkedIn**: [dwikygilangi](https://www.linkedin.com/in/dwikygilangi/)  
 
-
-
 ## ⚡ Tech Stack  
 <p align="left">
-  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python" />
-  <img src="https://img.shields.io/badge/Code-Unity-black?logo=unity" />
-  <img src="https://img.shields.io/badge/Code-Laravel-red?logo=laravel" />
-  <img src="https://img.shields.io/badge/Code-OpenCV-green?logo=opencv" />
-  <img src="https://img.shields.io/badge/IoT-ESP32-orange?logo=espressif" />
-  <img src="https://img.shields.io/badge/Automation-n8n-pink?logo=n8n" />
-  <img src="https://img.shields.io/badge/Automation-DiscordBot-7289da?logo=discord" />
-  <img src="https://img.shields.io/badge/Render-OpenCue-00bcd4" />
-  <img src="https://img.shields.io/badge/Render-Kitsu-9c27b0" />
-  <img src="https://img.shields.io/badge/AI-PythonBrain-yellow?logo=tensorflow" />
-  <img src="https://img.shields.io/badge/Design-Blender-orange?logo=blender" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C9C21?logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-FF6600?logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FC64FF?logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/DiscordBot-7289da?logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCue-00bcd4?logo=none&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kitsu-9c27b0?logo=none&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" />
 </p>
-
-
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dwikygilang&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dwikygilang&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwikygilang&theme=tokyonight" height="180em" />
 </p>
 
-
-
 ## 🎶 Culture + Vibes  
-> *"when somebody tells you, thats not a question."* ✨  
-- ☕ Coffe + Sleep = Perfect Combo  
-- 🎧 Lo-fi & Indie vibes  
-- 🎬 ? idk  
-
-
+> *"When somebody tells you, that's not a question."* ✨  
+- ☕ Coffee + Sleep = Perfect Combo  
+- 🎧 Lo-fi & Indie Vibes  
+- 🎬 Films & Animation  
 
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&animation=twinkling" />
 </p>
-
